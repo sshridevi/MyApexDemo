@@ -7,6 +7,8 @@ public class GitDemo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("My First Git Hub Repo!");
+		
+		System.out.println("My changes as a developer");
 
 	}
 
